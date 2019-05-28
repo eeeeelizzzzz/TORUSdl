@@ -1,0 +1,898 @@
+DEBUG:root:Output path already exists...
+2019-05-09 19:13:18,712:DEBUG:Output path already exists...
+2019-05-09 19:13:43,108:DEBUG:Output path already exists...
+2019-05-09 19:14:23,977:DEBUG:Output path already exists...
+2019-05-09 19:15:31,326:DEBUG:Output path already exists...
+2019-05-09 19:15:31,331:DEBUG:Decoding header
+2019-05-09 19:15:31,336:DEBUG:Number of rays: 8
+2019-05-09 19:15:31,336:DEBUG:Reading data
+2019-05-09 19:15:32,874:DEBUG:Decoding header
+2019-05-09 19:15:32,880:DEBUG:Number of rays: 1414
+2019-05-09 19:15:32,881:DEBUG:Reading data
+2019-05-09 19:15:33,535:DEBUG:Decoding header
+2019-05-09 19:15:33,535:DEBUG:Number of rays: 8
+2019-05-09 19:15:33,535:DEBUG:Reading data
+2019-05-09 19:16:39,035:DEBUG:Output path already exists...
+2019-05-09 19:16:39,036:DEBUG:Decoding header
+2019-05-09 19:16:39,036:DEBUG:Number of rays: 8
+2019-05-09 19:16:39,036:DEBUG:Reading data
+2019-05-09 19:16:40,279:DEBUG:Decoding header
+2019-05-09 19:16:40,284:DEBUG:Number of rays: 1414
+2019-05-09 19:16:40,284:DEBUG:Reading data
+2019-05-09 19:16:40,935:DEBUG:Decoding header
+2019-05-09 19:16:40,935:DEBUG:Number of rays: 8
+2019-05-09 19:16:40,935:DEBUG:Reading data
+2019-05-09 19:23:44,927:DEBUG:Output path already exists...
+2019-05-09 19:23:44,931:DEBUG:Decoding header
+2019-05-09 19:23:44,931:DEBUG:Number of rays: 8
+2019-05-09 19:23:44,931:DEBUG:Reading data
+2019-05-09 19:23:46,148:DEBUG:Decoding header
+2019-05-09 19:23:46,148:DEBUG:Number of rays: 13
+2019-05-09 19:23:46,148:DEBUG:Reading data
+2019-05-09 19:23:46,157:DEBUG:Decoding header
+2019-05-09 19:23:46,157:DEBUG:Number of rays: 8
+2019-05-09 19:23:46,157:DEBUG:Reading data
+2019-05-09 19:23:47,356:DEBUG:Decoding header
+2019-05-09 19:23:47,356:DEBUG:Number of rays: 13
+2019-05-09 19:23:47,356:DEBUG:Reading data
+2019-05-09 19:23:47,366:DEBUG:Decoding header
+2019-05-09 19:23:47,366:DEBUG:Number of rays: 8
+2019-05-09 19:23:47,366:DEBUG:Reading data
+2019-05-09 19:23:48,565:DEBUG:Decoding header
+2019-05-09 19:23:48,565:DEBUG:Number of rays: 13
+2019-05-09 19:23:48,565:DEBUG:Reading data
+2019-05-09 19:23:48,575:DEBUG:Decoding header
+2019-05-09 19:23:48,575:DEBUG:Number of rays: 13
+2019-05-09 19:23:48,575:DEBUG:Reading data
+2019-05-09 19:23:48,584:DEBUG:Decoding header
+2019-05-09 19:23:48,584:DEBUG:Number of rays: 13
+2019-05-09 19:23:48,584:DEBUG:Reading data
+2019-05-09 19:23:48,593:DEBUG:Decoding header
+2019-05-09 19:23:48,594:DEBUG:Number of rays: 13
+2019-05-09 19:23:48,594:DEBUG:Reading data
+2019-05-09 19:23:48,602:DEBUG:Decoding header
+2019-05-09 19:23:48,602:DEBUG:Number of rays: 8
+2019-05-09 19:23:48,602:DEBUG:Reading data
+2019-05-09 19:23:49,791:DEBUG:Decoding header
+2019-05-09 19:23:49,791:DEBUG:Number of rays: 13
+2019-05-09 19:23:49,792:DEBUG:Reading data
+2019-05-09 19:23:49,801:DEBUG:Decoding header
+2019-05-09 19:23:49,801:DEBUG:Number of rays: 8
+2019-05-09 19:23:49,801:DEBUG:Reading data
+2019-05-09 19:23:50,975:DEBUG:Decoding header
+2019-05-09 19:23:50,975:DEBUG:Number of rays: 13
+2019-05-09 19:23:50,975:DEBUG:Reading data
+2019-05-09 19:23:50,986:DEBUG:Decoding header
+2019-05-09 19:23:50,987:DEBUG:Number of rays: 13
+2019-05-09 19:23:50,987:DEBUG:Reading data
+2019-05-09 19:23:50,997:DEBUG:Decoding header
+2019-05-09 19:23:50,997:DEBUG:Number of rays: 13
+2019-05-09 19:23:50,997:DEBUG:Reading data
+2019-05-09 19:23:51,012:DEBUG:Decoding header
+2019-05-09 19:23:51,012:DEBUG:Number of rays: 13
+2019-05-09 19:23:51,012:DEBUG:Reading data
+2019-05-09 19:23:51,021:DEBUG:Decoding header
+2019-05-09 19:23:51,021:DEBUG:Number of rays: 8
+2019-05-09 19:23:51,021:DEBUG:Reading data
+2019-05-09 19:23:52,203:DEBUG:Decoding header
+2019-05-09 19:23:52,204:DEBUG:Number of rays: 13
+2019-05-09 19:23:52,204:DEBUG:Reading data
+2019-05-09 19:23:52,212:DEBUG:Decoding header
+2019-05-09 19:23:52,212:DEBUG:Number of rays: 8
+2019-05-09 19:23:52,213:DEBUG:Reading data
+2019-05-09 19:23:53,509:DEBUG:Decoding header
+2019-05-09 19:23:53,509:DEBUG:Number of rays: 8
+2019-05-09 19:23:53,509:DEBUG:Reading data
+2019-05-09 19:23:54,884:DEBUG:Decoding header
+2019-05-09 19:23:54,885:DEBUG:Number of rays: 13
+2019-05-09 19:23:54,885:DEBUG:Reading data
+2019-05-09 19:23:54,919:DEBUG:Decoding header
+2019-05-09 19:23:54,921:DEBUG:Number of rays: 330
+2019-05-09 19:23:54,921:DEBUG:Reading data
+2019-05-09 19:23:55,084:DEBUG:Decoding header
+2019-05-09 19:23:55,085:DEBUG:Number of rays: 8
+2019-05-09 19:23:55,085:DEBUG:Reading data
+2019-05-09 19:23:56,374:DEBUG:Decoding header
+2019-05-09 19:23:56,374:DEBUG:Number of rays: 8
+2019-05-09 19:23:56,374:DEBUG:Reading data
+2019-05-09 19:23:57,981:DEBUG:Decoding header
+2019-05-09 19:23:57,995:DEBUG:Number of rays: 3109
+2019-05-09 19:23:57,995:DEBUG:Reading data
+2019-05-09 19:23:59,526:DEBUG:Decoding header
+2019-05-09 19:23:59,526:DEBUG:Number of rays: 8
+2019-05-09 19:23:59,526:DEBUG:Reading data
+2019-05-09 19:24:01,077:DEBUG:Decoding header
+2019-05-09 19:24:01,084:DEBUG:Number of rays: 1414
+2019-05-09 19:24:01,084:DEBUG:Reading data
+2019-05-09 19:24:01,857:DEBUG:Decoding header
+2019-05-09 19:24:01,857:DEBUG:Number of rays: 8
+2019-05-09 19:24:01,858:DEBUG:Reading data
+2019-05-09 19:24:03,198:DEBUG:Decoding header
+2019-05-09 19:24:03,198:DEBUG:Number of rays: 8
+2019-05-09 19:24:03,198:DEBUG:Reading data
+2019-05-09 19:24:04,515:DEBUG:Decoding header
+2019-05-09 19:24:04,515:DEBUG:Number of rays: 3
+2019-05-09 19:24:04,515:DEBUG:Reading data
+2019-05-09 19:24:58,632:DEBUG:Output path already exists...
+2019-05-09 19:27:35,635:DEBUG:Output path already exists...
+2019-05-09 19:27:46,423:DEBUG:Output path already exists...
+2019-05-09 19:27:46,424:DEBUG:Decoding header
+2019-05-09 19:27:46,424:DEBUG:Number of rays: 8
+2019-05-09 19:27:46,425:DEBUG:Reading data
+2019-05-09 19:27:47,624:DEBUG:Decoding header
+2019-05-09 19:27:47,625:DEBUG:Number of rays: 13
+2019-05-09 19:27:47,625:DEBUG:Reading data
+2019-05-09 19:27:47,632:DEBUG:Decoding header
+2019-05-09 19:27:47,632:DEBUG:Number of rays: 8
+2019-05-09 19:27:47,632:DEBUG:Reading data
+2019-05-09 19:27:48,823:DEBUG:Decoding header
+2019-05-09 19:27:48,824:DEBUG:Number of rays: 13
+2019-05-09 19:27:48,824:DEBUG:Reading data
+2019-05-09 19:27:48,832:DEBUG:Decoding header
+2019-05-09 19:27:48,832:DEBUG:Number of rays: 8
+2019-05-09 19:27:48,832:DEBUG:Reading data
+2019-05-09 19:27:50,023:DEBUG:Decoding header
+2019-05-09 19:27:50,023:DEBUG:Number of rays: 13
+2019-05-09 19:27:50,023:DEBUG:Reading data
+2019-05-09 19:27:50,031:DEBUG:Decoding header
+2019-05-09 19:27:50,031:DEBUG:Number of rays: 13
+2019-05-09 19:27:50,031:DEBUG:Reading data
+2019-05-09 19:27:50,039:DEBUG:Decoding header
+2019-05-09 19:27:50,039:DEBUG:Number of rays: 13
+2019-05-09 19:27:50,039:DEBUG:Reading data
+2019-05-09 19:27:50,047:DEBUG:Decoding header
+2019-05-09 19:27:50,047:DEBUG:Number of rays: 13
+2019-05-09 19:27:50,047:DEBUG:Reading data
+2019-05-09 19:27:50,054:DEBUG:Decoding header
+2019-05-09 19:27:50,054:DEBUG:Number of rays: 8
+2019-05-09 19:27:50,054:DEBUG:Reading data
+2019-05-09 19:27:51,233:DEBUG:Decoding header
+2019-05-09 19:27:51,233:DEBUG:Number of rays: 13
+2019-05-09 19:27:51,233:DEBUG:Reading data
+2019-05-09 19:27:51,240:DEBUG:Decoding header
+2019-05-09 19:27:51,240:DEBUG:Number of rays: 8
+2019-05-09 19:27:51,240:DEBUG:Reading data
+2019-05-09 19:27:52,429:DEBUG:Decoding header
+2019-05-09 19:27:52,430:DEBUG:Number of rays: 13
+2019-05-09 19:27:52,430:DEBUG:Reading data
+2019-05-09 19:27:52,437:DEBUG:Decoding header
+2019-05-09 19:27:52,437:DEBUG:Number of rays: 13
+2019-05-09 19:27:52,437:DEBUG:Reading data
+2019-05-09 19:27:52,444:DEBUG:Decoding header
+2019-05-09 19:27:52,444:DEBUG:Number of rays: 13
+2019-05-09 19:27:52,444:DEBUG:Reading data
+2019-05-09 19:27:52,451:DEBUG:Decoding header
+2019-05-09 19:27:52,451:DEBUG:Number of rays: 13
+2019-05-09 19:27:52,451:DEBUG:Reading data
+2019-05-09 19:27:52,458:DEBUG:Decoding header
+2019-05-09 19:27:52,458:DEBUG:Number of rays: 8
+2019-05-09 19:27:52,458:DEBUG:Reading data
+2019-05-09 19:27:53,644:DEBUG:Decoding header
+2019-05-09 19:27:53,644:DEBUG:Number of rays: 13
+2019-05-09 19:27:53,644:DEBUG:Reading data
+2019-05-09 19:27:53,651:DEBUG:Decoding header
+2019-05-09 19:27:53,651:DEBUG:Number of rays: 8
+2019-05-09 19:27:53,651:DEBUG:Reading data
+2019-05-09 19:27:54,830:DEBUG:Decoding header
+2019-05-09 19:27:54,830:DEBUG:Number of rays: 8
+2019-05-09 19:27:54,830:DEBUG:Reading data
+2019-05-09 19:27:56,060:DEBUG:Decoding header
+2019-05-09 19:27:56,061:DEBUG:Number of rays: 13
+2019-05-09 19:27:56,061:DEBUG:Reading data
+2019-05-09 19:27:56,091:DEBUG:Decoding header
+2019-05-09 19:27:56,092:DEBUG:Number of rays: 330
+2019-05-09 19:27:56,092:DEBUG:Reading data
+2019-05-09 19:27:56,249:DEBUG:Decoding header
+2019-05-09 19:27:56,249:DEBUG:Number of rays: 8
+2019-05-09 19:27:56,249:DEBUG:Reading data
+2019-05-09 19:27:57,431:DEBUG:Decoding header
+2019-05-09 19:27:57,431:DEBUG:Number of rays: 8
+2019-05-09 19:27:57,431:DEBUG:Reading data
+2019-05-09 19:27:58,968:DEBUG:Decoding header
+2019-05-09 19:27:58,983:DEBUG:Number of rays: 3109
+2019-05-09 19:27:58,983:DEBUG:Reading data
+2019-05-09 19:28:00,486:DEBUG:Decoding header
+2019-05-09 19:28:00,486:DEBUG:Number of rays: 8
+2019-05-09 19:28:00,486:DEBUG:Reading data
+2019-05-09 19:28:01,750:DEBUG:Decoding header
+2019-05-09 19:28:01,755:DEBUG:Number of rays: 1414
+2019-05-09 19:28:01,755:DEBUG:Reading data
+2019-05-09 19:28:02,411:DEBUG:Decoding header
+2019-05-09 19:28:02,412:DEBUG:Number of rays: 8
+2019-05-09 19:28:02,412:DEBUG:Reading data
+2019-05-09 19:28:03,577:DEBUG:Decoding header
+2019-05-09 19:28:03,577:DEBUG:Number of rays: 8
+2019-05-09 19:28:03,577:DEBUG:Reading data
+2019-05-09 19:28:04,738:DEBUG:Decoding header
+2019-05-09 19:28:04,738:DEBUG:Number of rays: 3
+2019-05-09 19:28:04,738:DEBUG:Reading data
+2019-05-09 19:30:59,393:DEBUG:Output path already exists...
+2019-05-09 19:30:59,395:DEBUG:Decoding header
+2019-05-09 19:30:59,395:DEBUG:Number of rays: 8
+2019-05-09 19:30:59,395:DEBUG:Reading data
+2019-05-09 19:31:00,689:DEBUG:Decoding header
+2019-05-09 19:31:00,689:DEBUG:Number of rays: 13
+2019-05-09 19:31:00,689:DEBUG:Reading data
+2019-05-09 19:31:00,697:DEBUG:Decoding header
+2019-05-09 19:31:00,697:DEBUG:Number of rays: 8
+2019-05-09 19:31:00,697:DEBUG:Reading data
+2019-05-09 19:31:01,956:DEBUG:Decoding header
+2019-05-09 19:31:01,956:DEBUG:Number of rays: 13
+2019-05-09 19:31:01,956:DEBUG:Reading data
+2019-05-09 19:31:01,964:DEBUG:Decoding header
+2019-05-09 19:31:01,964:DEBUG:Number of rays: 8
+2019-05-09 19:31:01,964:DEBUG:Reading data
+2019-05-09 19:31:03,226:DEBUG:Decoding header
+2019-05-09 19:31:03,226:DEBUG:Number of rays: 13
+2019-05-09 19:31:03,226:DEBUG:Reading data
+2019-05-09 19:31:03,234:DEBUG:Decoding header
+2019-05-09 19:31:03,234:DEBUG:Number of rays: 13
+2019-05-09 19:31:03,234:DEBUG:Reading data
+2019-05-09 19:31:03,242:DEBUG:Decoding header
+2019-05-09 19:31:03,242:DEBUG:Number of rays: 13
+2019-05-09 19:31:03,242:DEBUG:Reading data
+2019-05-09 19:31:03,250:DEBUG:Decoding header
+2019-05-09 19:31:03,250:DEBUG:Number of rays: 13
+2019-05-09 19:31:03,250:DEBUG:Reading data
+2019-05-09 19:31:03,257:DEBUG:Decoding header
+2019-05-09 19:31:03,257:DEBUG:Number of rays: 8
+2019-05-09 19:31:03,258:DEBUG:Reading data
+2019-05-09 19:31:04,748:DEBUG:Decoding header
+2019-05-09 19:31:04,748:DEBUG:Number of rays: 13
+2019-05-09 19:31:04,748:DEBUG:Reading data
+2019-05-09 19:31:04,756:DEBUG:Decoding header
+2019-05-09 19:31:04,757:DEBUG:Number of rays: 8
+2019-05-09 19:31:04,757:DEBUG:Reading data
+2019-05-09 19:31:06,227:DEBUG:Decoding header
+2019-05-09 19:31:06,228:DEBUG:Number of rays: 13
+2019-05-09 19:31:06,228:DEBUG:Reading data
+2019-05-09 19:31:06,235:DEBUG:Decoding header
+2019-05-09 19:31:06,236:DEBUG:Number of rays: 13
+2019-05-09 19:31:06,236:DEBUG:Reading data
+2019-05-09 19:31:06,244:DEBUG:Decoding header
+2019-05-09 19:31:06,244:DEBUG:Number of rays: 13
+2019-05-09 19:31:06,244:DEBUG:Reading data
+2019-05-09 19:31:06,252:DEBUG:Decoding header
+2019-05-09 19:31:06,253:DEBUG:Number of rays: 13
+2019-05-09 19:31:06,253:DEBUG:Reading data
+2019-05-09 19:31:06,261:DEBUG:Decoding header
+2019-05-09 19:31:06,261:DEBUG:Number of rays: 8
+2019-05-09 19:31:06,261:DEBUG:Reading data
+2019-05-09 19:31:07,608:DEBUG:Decoding header
+2019-05-09 19:31:07,608:DEBUG:Number of rays: 13
+2019-05-09 19:31:07,608:DEBUG:Reading data
+2019-05-09 19:31:07,616:DEBUG:Decoding header
+2019-05-09 19:31:07,616:DEBUG:Number of rays: 8
+2019-05-09 19:31:07,616:DEBUG:Reading data
+2019-05-09 19:31:08,957:DEBUG:Decoding header
+2019-05-09 19:31:08,958:DEBUG:Number of rays: 8
+2019-05-09 19:31:08,958:DEBUG:Reading data
+2019-05-09 19:31:10,294:DEBUG:Decoding header
+2019-05-09 19:31:10,295:DEBUG:Number of rays: 13
+2019-05-09 19:31:10,295:DEBUG:Reading data
+2019-05-09 19:31:10,324:DEBUG:Decoding header
+2019-05-09 19:31:10,326:DEBUG:Number of rays: 330
+2019-05-09 19:31:10,326:DEBUG:Reading data
+2019-05-09 19:31:10,491:DEBUG:Decoding header
+2019-05-09 19:31:10,491:DEBUG:Number of rays: 8
+2019-05-09 19:31:10,491:DEBUG:Reading data
+2019-05-09 19:31:11,837:DEBUG:Decoding header
+2019-05-09 19:31:11,838:DEBUG:Number of rays: 8
+2019-05-09 19:31:11,838:DEBUG:Reading data
+2019-05-09 19:31:13,332:DEBUG:Decoding header
+2019-05-09 19:31:13,348:DEBUG:Number of rays: 3109
+2019-05-09 19:31:13,348:DEBUG:Reading data
+2019-05-09 19:31:14,934:DEBUG:Decoding header
+2019-05-09 19:31:14,935:DEBUG:Number of rays: 8
+2019-05-09 19:31:14,935:DEBUG:Reading data
+2019-05-09 19:31:16,419:DEBUG:Decoding header
+2019-05-09 19:31:16,425:DEBUG:Number of rays: 1414
+2019-05-09 19:31:16,425:DEBUG:Reading data
+2019-05-09 19:31:17,165:DEBUG:Decoding header
+2019-05-09 19:31:17,165:DEBUG:Number of rays: 8
+2019-05-09 19:31:17,165:DEBUG:Reading data
+2019-05-09 19:31:18,509:DEBUG:Decoding header
+2019-05-09 19:31:18,509:DEBUG:Number of rays: 8
+2019-05-09 19:31:18,509:DEBUG:Reading data
+2019-05-09 19:31:46,373:DEBUG:Output path already exists...
+2019-05-09 19:31:46,374:DEBUG:Decoding header
+2019-05-09 19:31:46,374:DEBUG:Number of rays: 8
+2019-05-09 19:31:46,374:DEBUG:Reading data
+2019-05-09 19:31:47,578:DEBUG:Decoding header
+2019-05-09 19:31:47,579:DEBUG:Number of rays: 13
+2019-05-09 19:31:47,579:DEBUG:Reading data
+2019-05-09 19:31:47,586:DEBUG:Decoding header
+2019-05-09 19:31:47,587:DEBUG:Number of rays: 8
+2019-05-09 19:31:47,587:DEBUG:Reading data
+2019-05-09 19:31:48,761:DEBUG:Decoding header
+2019-05-09 19:31:48,761:DEBUG:Number of rays: 13
+2019-05-09 19:31:48,761:DEBUG:Reading data
+2019-05-09 19:31:48,769:DEBUG:Decoding header
+2019-05-09 19:31:48,769:DEBUG:Number of rays: 8
+2019-05-09 19:31:48,769:DEBUG:Reading data
+2019-05-09 19:31:49,958:DEBUG:Decoding header
+2019-05-09 19:31:49,958:DEBUG:Number of rays: 13
+2019-05-09 19:31:49,958:DEBUG:Reading data
+2019-05-09 19:31:49,965:DEBUG:Decoding header
+2019-05-09 19:31:49,966:DEBUG:Number of rays: 13
+2019-05-09 19:31:49,966:DEBUG:Reading data
+2019-05-09 19:31:49,973:DEBUG:Decoding header
+2019-05-09 19:31:49,974:DEBUG:Number of rays: 13
+2019-05-09 19:31:49,974:DEBUG:Reading data
+2019-05-09 19:31:49,982:DEBUG:Decoding header
+2019-05-09 19:31:49,982:DEBUG:Number of rays: 13
+2019-05-09 19:31:49,982:DEBUG:Reading data
+2019-05-09 19:31:49,990:DEBUG:Decoding header
+2019-05-09 19:31:49,990:DEBUG:Number of rays: 8
+2019-05-09 19:31:49,990:DEBUG:Reading data
+2019-05-09 19:31:51,178:DEBUG:Decoding header
+2019-05-09 19:31:51,178:DEBUG:Number of rays: 13
+2019-05-09 19:31:51,179:DEBUG:Reading data
+2019-05-09 19:31:51,186:DEBUG:Decoding header
+2019-05-09 19:31:51,187:DEBUG:Number of rays: 8
+2019-05-09 19:31:51,187:DEBUG:Reading data
+2019-05-09 19:31:52,420:DEBUG:Decoding header
+2019-05-09 19:31:52,420:DEBUG:Number of rays: 13
+2019-05-09 19:31:52,420:DEBUG:Reading data
+2019-05-09 19:31:52,427:DEBUG:Decoding header
+2019-05-09 19:31:52,427:DEBUG:Number of rays: 13
+2019-05-09 19:31:52,427:DEBUG:Reading data
+2019-05-09 19:31:52,435:DEBUG:Decoding header
+2019-05-09 19:31:52,435:DEBUG:Number of rays: 13
+2019-05-09 19:31:52,435:DEBUG:Reading data
+2019-05-09 19:31:52,442:DEBUG:Decoding header
+2019-05-09 19:31:52,442:DEBUG:Number of rays: 13
+2019-05-09 19:31:52,442:DEBUG:Reading data
+2019-05-09 19:31:52,449:DEBUG:Decoding header
+2019-05-09 19:31:52,449:DEBUG:Number of rays: 8
+2019-05-09 19:31:52,449:DEBUG:Reading data
+2019-05-09 19:31:53,688:DEBUG:Decoding header
+2019-05-09 19:31:53,688:DEBUG:Number of rays: 13
+2019-05-09 19:31:53,688:DEBUG:Reading data
+2019-05-09 19:31:53,696:DEBUG:Decoding header
+2019-05-09 19:31:53,696:DEBUG:Number of rays: 8
+2019-05-09 19:31:53,696:DEBUG:Reading data
+2019-05-09 19:31:55,119:DEBUG:Decoding header
+2019-05-09 19:31:55,119:DEBUG:Number of rays: 8
+2019-05-09 19:31:55,119:DEBUG:Reading data
+2019-05-09 19:31:56,708:DEBUG:Decoding header
+2019-05-09 19:31:56,708:DEBUG:Number of rays: 13
+2019-05-09 19:31:56,708:DEBUG:Reading data
+2019-05-09 19:31:56,734:DEBUG:Decoding header
+2019-05-09 19:31:56,735:DEBUG:Number of rays: 330
+2019-05-09 19:31:56,735:DEBUG:Reading data
+2019-05-09 19:31:56,892:DEBUG:Decoding header
+2019-05-09 19:31:56,892:DEBUG:Number of rays: 8
+2019-05-09 19:31:56,892:DEBUG:Reading data
+2019-05-09 19:31:58,081:DEBUG:Decoding header
+2019-05-09 19:31:58,082:DEBUG:Number of rays: 8
+2019-05-09 19:31:58,082:DEBUG:Reading data
+2019-05-09 19:31:59,456:DEBUG:Decoding header
+2019-05-09 19:31:59,471:DEBUG:Number of rays: 3109
+2019-05-09 19:31:59,471:DEBUG:Reading data
+2019-05-09 19:32:00,925:DEBUG:Decoding header
+2019-05-09 19:32:00,925:DEBUG:Number of rays: 8
+2019-05-09 19:32:00,925:DEBUG:Reading data
+2019-05-09 19:32:02,207:DEBUG:Decoding header
+2019-05-09 19:32:02,213:DEBUG:Number of rays: 1414
+2019-05-09 19:32:02,213:DEBUG:Reading data
+2019-05-09 19:32:02,876:DEBUG:Decoding header
+2019-05-09 19:32:02,876:DEBUG:Number of rays: 8
+2019-05-09 19:32:02,877:DEBUG:Reading data
+2019-05-09 19:32:04,047:DEBUG:Decoding header
+2019-05-09 19:32:04,047:DEBUG:Number of rays: 3
+2019-05-09 19:32:04,047:DEBUG:Reading data
+2019-05-09 19:33:27,349:DEBUG:Output path already exists...
+2019-05-09 19:33:27,355:DEBUG:Decoding header
+2019-05-09 19:33:27,355:DEBUG:Number of rays: 8
+2019-05-09 19:33:27,355:DEBUG:Reading data
+2019-05-09 19:33:28,556:DEBUG:Decoding header
+2019-05-09 19:33:28,556:DEBUG:Number of rays: 13
+2019-05-09 19:33:28,556:DEBUG:Reading data
+2019-05-09 19:33:28,563:DEBUG:Decoding header
+2019-05-09 19:33:28,563:DEBUG:Number of rays: 8
+2019-05-09 19:33:28,563:DEBUG:Reading data
+2019-05-09 19:33:29,743:DEBUG:Decoding header
+2019-05-09 19:33:29,744:DEBUG:Number of rays: 13
+2019-05-09 19:33:29,744:DEBUG:Reading data
+2019-05-09 19:33:29,750:DEBUG:Decoding header
+2019-05-09 19:33:29,750:DEBUG:Number of rays: 8
+2019-05-09 19:33:29,750:DEBUG:Reading data
+2019-05-09 19:33:30,937:DEBUG:Decoding header
+2019-05-09 19:33:30,937:DEBUG:Number of rays: 13
+2019-05-09 19:33:30,937:DEBUG:Reading data
+2019-05-09 19:33:30,944:DEBUG:Decoding header
+2019-05-09 19:33:30,944:DEBUG:Number of rays: 13
+2019-05-09 19:33:30,944:DEBUG:Reading data
+2019-05-09 19:33:30,952:DEBUG:Decoding header
+2019-05-09 19:33:30,952:DEBUG:Number of rays: 13
+2019-05-09 19:33:30,952:DEBUG:Reading data
+2019-05-09 19:33:30,960:DEBUG:Decoding header
+2019-05-09 19:33:30,960:DEBUG:Number of rays: 13
+2019-05-09 19:33:30,960:DEBUG:Reading data
+2019-05-09 19:33:30,967:DEBUG:Decoding header
+2019-05-09 19:33:30,967:DEBUG:Number of rays: 8
+2019-05-09 19:33:30,967:DEBUG:Reading data
+2019-05-09 19:33:32,136:DEBUG:Decoding header
+2019-05-09 19:33:32,136:DEBUG:Number of rays: 13
+2019-05-09 19:33:32,137:DEBUG:Reading data
+2019-05-09 19:33:32,143:DEBUG:Decoding header
+2019-05-09 19:33:32,143:DEBUG:Number of rays: 8
+2019-05-09 19:33:32,143:DEBUG:Reading data
+2019-05-09 19:33:33,317:DEBUG:Decoding header
+2019-05-09 19:33:33,317:DEBUG:Number of rays: 13
+2019-05-09 19:33:33,318:DEBUG:Reading data
+2019-05-09 19:33:33,324:DEBUG:Decoding header
+2019-05-09 19:33:33,324:DEBUG:Number of rays: 13
+2019-05-09 19:33:33,325:DEBUG:Reading data
+2019-05-09 19:33:33,332:DEBUG:Decoding header
+2019-05-09 19:33:33,332:DEBUG:Number of rays: 13
+2019-05-09 19:33:33,332:DEBUG:Reading data
+2019-05-09 19:33:33,339:DEBUG:Decoding header
+2019-05-09 19:33:33,339:DEBUG:Number of rays: 13
+2019-05-09 19:33:33,339:DEBUG:Reading data
+2019-05-09 19:33:33,346:DEBUG:Decoding header
+2019-05-09 19:33:33,346:DEBUG:Number of rays: 8
+2019-05-09 19:33:33,346:DEBUG:Reading data
+2019-05-09 19:33:34,516:DEBUG:Decoding header
+2019-05-09 19:33:34,517:DEBUG:Number of rays: 13
+2019-05-09 19:33:34,517:DEBUG:Reading data
+2019-05-09 19:33:34,524:DEBUG:Decoding header
+2019-05-09 19:33:34,524:DEBUG:Number of rays: 8
+2019-05-09 19:33:34,524:DEBUG:Reading data
+2019-05-09 19:33:35,695:DEBUG:Decoding header
+2019-05-09 19:33:35,695:DEBUG:Number of rays: 8
+2019-05-09 19:33:35,695:DEBUG:Reading data
+2019-05-09 19:33:36,871:DEBUG:Decoding header
+2019-05-09 19:33:36,871:DEBUG:Number of rays: 13
+2019-05-09 19:33:36,871:DEBUG:Reading data
+2019-05-09 19:33:36,896:DEBUG:Decoding header
+2019-05-09 19:33:36,897:DEBUG:Number of rays: 330
+2019-05-09 19:33:36,897:DEBUG:Reading data
+2019-05-09 19:33:37,050:DEBUG:Decoding header
+2019-05-09 19:33:37,050:DEBUG:Number of rays: 8
+2019-05-09 19:33:37,050:DEBUG:Reading data
+2019-05-09 19:33:38,222:DEBUG:Decoding header
+2019-05-09 19:33:38,222:DEBUG:Number of rays: 8
+2019-05-09 19:33:38,222:DEBUG:Reading data
+2019-05-09 19:33:39,593:DEBUG:Decoding header
+2019-05-09 19:33:39,604:DEBUG:Number of rays: 3109
+2019-05-09 19:33:39,604:DEBUG:Reading data
+2019-05-09 19:33:41,031:DEBUG:Decoding header
+2019-05-09 19:33:41,031:DEBUG:Number of rays: 8
+2019-05-09 19:33:41,031:DEBUG:Reading data
+2019-05-09 19:33:42,275:DEBUG:Decoding header
+2019-05-09 19:33:42,281:DEBUG:Number of rays: 1414
+2019-05-09 19:33:42,282:DEBUG:Reading data
+2019-05-09 19:33:42,938:DEBUG:Decoding header
+2019-05-09 19:33:42,938:DEBUG:Number of rays: 8
+2019-05-09 19:33:42,938:DEBUG:Reading data
+2019-05-09 19:33:44,120:DEBUG:Decoding header
+2019-05-09 19:33:44,120:DEBUG:Number of rays: 8
+2019-05-09 19:33:44,120:DEBUG:Reading data
+2019-05-09 19:33:45,271:DEBUG:Decoding header
+2019-05-09 19:33:45,271:DEBUG:Number of rays: 3
+2019-05-09 19:33:45,271:DEBUG:Reading data
+2019-05-09 19:33:56,431:DEBUG:Output path already exists...
+2019-05-09 19:33:56,437:DEBUG:Decoding header
+2019-05-09 19:33:56,438:DEBUG:Number of rays: 8
+2019-05-09 19:33:56,438:DEBUG:Reading data
+2019-05-09 19:33:57,772:DEBUG:Decoding header
+2019-05-09 19:33:57,772:DEBUG:Number of rays: 13
+2019-05-09 19:33:57,772:DEBUG:Reading data
+2019-05-09 19:33:57,780:DEBUG:Decoding header
+2019-05-09 19:33:57,780:DEBUG:Number of rays: 8
+2019-05-09 19:33:57,780:DEBUG:Reading data
+2019-05-09 19:33:59,055:DEBUG:Decoding header
+2019-05-09 19:33:59,055:DEBUG:Number of rays: 13
+2019-05-09 19:33:59,056:DEBUG:Reading data
+2019-05-09 19:33:59,063:DEBUG:Decoding header
+2019-05-09 19:33:59,064:DEBUG:Number of rays: 8
+2019-05-09 19:33:59,064:DEBUG:Reading data
+2019-05-09 19:34:00,253:DEBUG:Decoding header
+2019-05-09 19:34:00,253:DEBUG:Number of rays: 13
+2019-05-09 19:34:00,253:DEBUG:Reading data
+2019-05-09 19:34:00,261:DEBUG:Decoding header
+2019-05-09 19:34:00,261:DEBUG:Number of rays: 13
+2019-05-09 19:34:00,261:DEBUG:Reading data
+2019-05-09 19:34:00,269:DEBUG:Decoding header
+2019-05-09 19:34:00,269:DEBUG:Number of rays: 13
+2019-05-09 19:34:00,269:DEBUG:Reading data
+2019-05-09 19:34:00,277:DEBUG:Decoding header
+2019-05-09 19:34:00,277:DEBUG:Number of rays: 13
+2019-05-09 19:34:00,277:DEBUG:Reading data
+2019-05-09 19:34:00,284:DEBUG:Decoding header
+2019-05-09 19:34:00,285:DEBUG:Number of rays: 8
+2019-05-09 19:34:00,285:DEBUG:Reading data
+2019-05-09 19:34:01,482:DEBUG:Decoding header
+2019-05-09 19:34:01,482:DEBUG:Number of rays: 13
+2019-05-09 19:34:01,482:DEBUG:Reading data
+2019-05-09 19:34:01,489:DEBUG:Decoding header
+2019-05-09 19:34:01,489:DEBUG:Number of rays: 8
+2019-05-09 19:34:01,489:DEBUG:Reading data
+2019-05-09 19:34:02,686:DEBUG:Decoding header
+2019-05-09 19:34:02,686:DEBUG:Number of rays: 13
+2019-05-09 19:34:02,687:DEBUG:Reading data
+2019-05-09 19:34:02,694:DEBUG:Decoding header
+2019-05-09 19:34:02,694:DEBUG:Number of rays: 13
+2019-05-09 19:34:02,694:DEBUG:Reading data
+2019-05-09 19:34:02,701:DEBUG:Decoding header
+2019-05-09 19:34:02,701:DEBUG:Number of rays: 13
+2019-05-09 19:34:02,701:DEBUG:Reading data
+2019-05-09 19:34:02,708:DEBUG:Decoding header
+2019-05-09 19:34:02,708:DEBUG:Number of rays: 13
+2019-05-09 19:34:02,708:DEBUG:Reading data
+2019-05-09 19:34:02,715:DEBUG:Decoding header
+2019-05-09 19:34:02,715:DEBUG:Number of rays: 8
+2019-05-09 19:34:02,715:DEBUG:Reading data
+2019-05-09 19:34:03,888:DEBUG:Decoding header
+2019-05-09 19:34:03,888:DEBUG:Number of rays: 13
+2019-05-09 19:34:03,888:DEBUG:Reading data
+2019-05-09 19:34:03,895:DEBUG:Decoding header
+2019-05-09 19:34:03,895:DEBUG:Number of rays: 8
+2019-05-09 19:34:03,895:DEBUG:Reading data
+2019-05-09 19:34:05,154:DEBUG:Decoding header
+2019-05-09 19:34:05,154:DEBUG:Number of rays: 8
+2019-05-09 19:34:05,154:DEBUG:Reading data
+2019-05-09 19:34:06,385:DEBUG:Decoding header
+2019-05-09 19:34:06,385:DEBUG:Number of rays: 13
+2019-05-09 19:34:06,385:DEBUG:Reading data
+2019-05-09 19:34:06,415:DEBUG:Decoding header
+2019-05-09 19:34:06,417:DEBUG:Number of rays: 330
+2019-05-09 19:34:06,417:DEBUG:Reading data
+2019-05-09 19:34:06,589:DEBUG:Decoding header
+2019-05-09 19:34:06,589:DEBUG:Number of rays: 8
+2019-05-09 19:34:06,590:DEBUG:Reading data
+2019-05-09 19:34:07,849:DEBUG:Decoding header
+2019-05-09 19:34:07,849:DEBUG:Number of rays: 8
+2019-05-09 19:34:07,849:DEBUG:Reading data
+2019-05-09 19:34:09,346:DEBUG:Decoding header
+2019-05-09 19:34:09,361:DEBUG:Number of rays: 3109
+2019-05-09 19:34:09,362:DEBUG:Reading data
+2019-05-09 19:34:11,052:DEBUG:Decoding header
+2019-05-09 19:34:11,052:DEBUG:Number of rays: 8
+2019-05-09 19:34:11,052:DEBUG:Reading data
+2019-05-09 19:34:12,317:DEBUG:Decoding header
+2019-05-09 19:34:12,324:DEBUG:Number of rays: 1414
+2019-05-09 19:34:12,324:DEBUG:Reading data
+2019-05-09 19:34:12,976:DEBUG:Decoding header
+2019-05-09 19:34:12,976:DEBUG:Number of rays: 8
+2019-05-09 19:34:12,976:DEBUG:Reading data
+2019-05-09 19:34:14,141:DEBUG:Decoding header
+2019-05-09 19:34:14,142:DEBUG:Number of rays: 8
+2019-05-09 19:34:14,142:DEBUG:Reading data
+2019-05-09 19:34:15,313:DEBUG:Decoding header
+2019-05-09 19:34:15,313:DEBUG:Number of rays: 3
+2019-05-09 19:34:15,313:DEBUG:Reading data
+2019-05-09 19:34:56,140:DEBUG:Output path already exists...
+2019-05-09 19:34:56,141:DEBUG:Decoding header
+2019-05-09 19:34:56,141:DEBUG:Number of rays: 8
+2019-05-09 19:34:56,141:DEBUG:Reading data
+2019-05-09 19:34:57,452:DEBUG:Decoding header
+2019-05-09 19:34:57,453:DEBUG:Number of rays: 13
+2019-05-09 19:34:57,453:DEBUG:Reading data
+2019-05-09 19:34:57,459:DEBUG:Decoding header
+2019-05-09 19:34:57,460:DEBUG:Number of rays: 8
+2019-05-09 19:34:57,460:DEBUG:Reading data
+2019-05-09 19:34:58,734:DEBUG:Decoding header
+2019-05-09 19:34:58,735:DEBUG:Number of rays: 13
+2019-05-09 19:34:58,735:DEBUG:Reading data
+2019-05-09 19:34:58,743:DEBUG:Decoding header
+2019-05-09 19:34:58,743:DEBUG:Number of rays: 8
+2019-05-09 19:34:58,743:DEBUG:Reading data
+2019-05-09 19:34:59,953:DEBUG:Decoding header
+2019-05-09 19:34:59,953:DEBUG:Number of rays: 13
+2019-05-09 19:34:59,954:DEBUG:Reading data
+2019-05-09 19:34:59,960:DEBUG:Decoding header
+2019-05-09 19:34:59,960:DEBUG:Number of rays: 13
+2019-05-09 19:34:59,960:DEBUG:Reading data
+2019-05-09 19:34:59,967:DEBUG:Decoding header
+2019-05-09 19:34:59,968:DEBUG:Number of rays: 13
+2019-05-09 19:34:59,968:DEBUG:Reading data
+2019-05-09 19:34:59,974:DEBUG:Decoding header
+2019-05-09 19:34:59,975:DEBUG:Number of rays: 13
+2019-05-09 19:34:59,975:DEBUG:Reading data
+2019-05-09 19:34:59,981:DEBUG:Decoding header
+2019-05-09 19:34:59,981:DEBUG:Number of rays: 8
+2019-05-09 19:34:59,981:DEBUG:Reading data
+2019-05-09 19:35:01,224:DEBUG:Decoding header
+2019-05-09 19:35:01,224:DEBUG:Number of rays: 13
+2019-05-09 19:35:01,224:DEBUG:Reading data
+2019-05-09 19:35:01,231:DEBUG:Decoding header
+2019-05-09 19:35:01,231:DEBUG:Number of rays: 8
+2019-05-09 19:35:01,232:DEBUG:Reading data
+2019-05-09 19:35:02,444:DEBUG:Decoding header
+2019-05-09 19:35:02,444:DEBUG:Number of rays: 13
+2019-05-09 19:35:02,444:DEBUG:Reading data
+2019-05-09 19:35:02,452:DEBUG:Decoding header
+2019-05-09 19:35:02,452:DEBUG:Number of rays: 13
+2019-05-09 19:35:02,453:DEBUG:Reading data
+2019-05-09 19:35:02,461:DEBUG:Decoding header
+2019-05-09 19:35:02,461:DEBUG:Number of rays: 13
+2019-05-09 19:35:02,461:DEBUG:Reading data
+2019-05-09 19:35:02,470:DEBUG:Decoding header
+2019-05-09 19:35:02,470:DEBUG:Number of rays: 13
+2019-05-09 19:35:02,470:DEBUG:Reading data
+2019-05-09 19:35:02,478:DEBUG:Decoding header
+2019-05-09 19:35:02,478:DEBUG:Number of rays: 8
+2019-05-09 19:35:02,478:DEBUG:Reading data
+2019-05-09 19:35:03,718:DEBUG:Decoding header
+2019-05-09 19:35:03,718:DEBUG:Number of rays: 13
+2019-05-09 19:35:03,718:DEBUG:Reading data
+2019-05-09 19:35:03,725:DEBUG:Decoding header
+2019-05-09 19:35:03,726:DEBUG:Number of rays: 8
+2019-05-09 19:35:03,726:DEBUG:Reading data
+2019-05-09 19:35:04,908:DEBUG:Decoding header
+2019-05-09 19:35:04,909:DEBUG:Number of rays: 8
+2019-05-09 19:35:04,909:DEBUG:Reading data
+2019-05-09 19:35:06,078:DEBUG:Decoding header
+2019-05-09 19:35:06,078:DEBUG:Number of rays: 13
+2019-05-09 19:35:06,079:DEBUG:Reading data
+2019-05-09 19:35:06,103:DEBUG:Decoding header
+2019-05-09 19:35:06,104:DEBUG:Number of rays: 330
+2019-05-09 19:35:06,105:DEBUG:Reading data
+2019-05-09 19:35:06,259:DEBUG:Decoding header
+2019-05-09 19:35:06,259:DEBUG:Number of rays: 8
+2019-05-09 19:35:06,259:DEBUG:Reading data
+2019-05-09 19:35:07,428:DEBUG:Decoding header
+2019-05-09 19:35:07,429:DEBUG:Number of rays: 8
+2019-05-09 19:35:07,429:DEBUG:Reading data
+2019-05-09 19:35:08,788:DEBUG:Decoding header
+2019-05-09 19:35:08,801:DEBUG:Number of rays: 3109
+2019-05-09 19:35:08,801:DEBUG:Reading data
+2019-05-09 19:35:10,240:DEBUG:Decoding header
+2019-05-09 19:35:10,240:DEBUG:Number of rays: 8
+2019-05-09 19:35:10,240:DEBUG:Reading data
+2019-05-09 19:35:11,513:DEBUG:Decoding header
+2019-05-09 19:35:11,518:DEBUG:Number of rays: 1414
+2019-05-09 19:35:11,518:DEBUG:Reading data
+2019-05-09 19:35:12,188:DEBUG:Decoding header
+2019-05-09 19:35:12,188:DEBUG:Number of rays: 8
+2019-05-09 19:35:12,188:DEBUG:Reading data
+2019-05-09 19:35:13,375:DEBUG:Decoding header
+2019-05-09 19:35:13,376:DEBUG:Number of rays: 8
+2019-05-09 19:35:13,376:DEBUG:Reading data
+2019-05-09 19:35:14,530:DEBUG:Decoding header
+2019-05-09 19:35:14,530:DEBUG:Number of rays: 3
+2019-05-09 19:35:14,530:DEBUG:Reading data
+2019-05-09 19:35:25,283:DEBUG:Output path already exists...
+2019-05-09 19:35:25,291:DEBUG:Decoding header
+2019-05-09 19:35:25,291:DEBUG:Number of rays: 8
+2019-05-09 19:35:25,291:DEBUG:Reading data
+2019-05-09 19:35:26,529:DEBUG:Decoding header
+2019-05-09 19:35:26,530:DEBUG:Number of rays: 13
+2019-05-09 19:35:26,530:DEBUG:Reading data
+2019-05-09 19:35:26,538:DEBUG:Decoding header
+2019-05-09 19:35:26,538:DEBUG:Number of rays: 8
+2019-05-09 19:35:26,538:DEBUG:Reading data
+2019-05-09 19:35:27,722:DEBUG:Decoding header
+2019-05-09 19:35:27,723:DEBUG:Number of rays: 13
+2019-05-09 19:35:27,723:DEBUG:Reading data
+2019-05-09 19:35:27,729:DEBUG:Decoding header
+2019-05-09 19:35:27,729:DEBUG:Number of rays: 8
+2019-05-09 19:35:27,730:DEBUG:Reading data
+2019-05-09 19:35:28,905:DEBUG:Decoding header
+2019-05-09 19:35:28,905:DEBUG:Number of rays: 13
+2019-05-09 19:35:28,905:DEBUG:Reading data
+2019-05-09 19:35:28,912:DEBUG:Decoding header
+2019-05-09 19:35:28,912:DEBUG:Number of rays: 13
+2019-05-09 19:35:28,912:DEBUG:Reading data
+2019-05-09 19:35:28,919:DEBUG:Decoding header
+2019-05-09 19:35:28,919:DEBUG:Number of rays: 13
+2019-05-09 19:35:28,919:DEBUG:Reading data
+2019-05-09 19:35:28,926:DEBUG:Decoding header
+2019-05-09 19:35:28,926:DEBUG:Number of rays: 13
+2019-05-09 19:35:28,926:DEBUG:Reading data
+2019-05-09 19:35:28,932:DEBUG:Decoding header
+2019-05-09 19:35:28,933:DEBUG:Number of rays: 8
+2019-05-09 19:35:28,933:DEBUG:Reading data
+2019-05-09 19:35:30,103:DEBUG:Decoding header
+2019-05-09 19:35:30,103:DEBUG:Number of rays: 13
+2019-05-09 19:35:30,103:DEBUG:Reading data
+2019-05-09 19:35:30,109:DEBUG:Decoding header
+2019-05-09 19:35:30,110:DEBUG:Number of rays: 8
+2019-05-09 19:35:30,110:DEBUG:Reading data
+2019-05-09 19:35:31,283:DEBUG:Decoding header
+2019-05-09 19:35:31,283:DEBUG:Number of rays: 13
+2019-05-09 19:35:31,283:DEBUG:Reading data
+2019-05-09 19:35:31,290:DEBUG:Decoding header
+2019-05-09 19:35:31,290:DEBUG:Number of rays: 13
+2019-05-09 19:35:31,290:DEBUG:Reading data
+2019-05-09 19:35:31,297:DEBUG:Decoding header
+2019-05-09 19:35:31,297:DEBUG:Number of rays: 13
+2019-05-09 19:35:31,298:DEBUG:Reading data
+2019-05-09 19:35:31,304:DEBUG:Decoding header
+2019-05-09 19:35:31,304:DEBUG:Number of rays: 13
+2019-05-09 19:35:31,305:DEBUG:Reading data
+2019-05-09 19:35:31,311:DEBUG:Decoding header
+2019-05-09 19:35:31,311:DEBUG:Number of rays: 8
+2019-05-09 19:35:31,311:DEBUG:Reading data
+2019-05-09 19:35:32,482:DEBUG:Decoding header
+2019-05-09 19:35:32,482:DEBUG:Number of rays: 13
+2019-05-09 19:35:32,482:DEBUG:Reading data
+2019-05-09 19:35:32,489:DEBUG:Decoding header
+2019-05-09 19:35:32,489:DEBUG:Number of rays: 8
+2019-05-09 19:35:32,489:DEBUG:Reading data
+2019-05-09 19:35:33,659:DEBUG:Decoding header
+2019-05-09 19:35:33,660:DEBUG:Number of rays: 8
+2019-05-09 19:35:33,660:DEBUG:Reading data
+2019-05-09 19:35:34,828:DEBUG:Decoding header
+2019-05-09 19:35:34,828:DEBUG:Number of rays: 13
+2019-05-09 19:35:34,828:DEBUG:Reading data
+2019-05-09 19:35:34,854:DEBUG:Decoding header
+2019-05-09 19:35:34,856:DEBUG:Number of rays: 330
+2019-05-09 19:35:34,856:DEBUG:Reading data
+2019-05-09 19:35:35,012:DEBUG:Decoding header
+2019-05-09 19:35:35,012:DEBUG:Number of rays: 8
+2019-05-09 19:35:35,012:DEBUG:Reading data
+2019-05-09 19:35:36,184:DEBUG:Decoding header
+2019-05-09 19:35:36,184:DEBUG:Number of rays: 8
+2019-05-09 19:35:36,184:DEBUG:Reading data
+2019-05-09 19:35:37,547:DEBUG:Decoding header
+2019-05-09 19:35:37,559:DEBUG:Number of rays: 3109
+2019-05-09 19:35:37,559:DEBUG:Reading data
+2019-05-09 19:35:38,990:DEBUG:Decoding header
+2019-05-09 19:35:38,990:DEBUG:Number of rays: 8
+2019-05-09 19:35:38,990:DEBUG:Reading data
+2019-05-09 19:35:40,254:DEBUG:Decoding header
+2019-05-09 19:35:40,259:DEBUG:Number of rays: 1414
+2019-05-09 19:35:40,260:DEBUG:Reading data
+2019-05-09 19:35:40,920:DEBUG:Decoding header
+2019-05-09 19:35:40,920:DEBUG:Number of rays: 8
+2019-05-09 19:35:40,920:DEBUG:Reading data
+2019-05-09 19:35:42,107:DEBUG:Decoding header
+2019-05-09 19:35:42,107:DEBUG:Number of rays: 8
+2019-05-09 19:35:42,107:DEBUG:Reading data
+2019-05-09 19:35:43,283:DEBUG:Decoding header
+2019-05-09 19:35:43,283:DEBUG:Number of rays: 3
+2019-05-09 19:35:43,283:DEBUG:Reading data
+2019-05-09 19:35:56,498:DEBUG:Output path already exists...
+2019-05-09 19:35:56,500:DEBUG:Decoding header
+2019-05-09 19:35:56,500:DEBUG:Number of rays: 8
+2019-05-09 19:35:56,500:DEBUG:Reading data
+2019-05-09 19:35:57,713:DEBUG:Decoding header
+2019-05-09 19:35:57,714:DEBUG:Number of rays: 13
+2019-05-09 19:35:57,714:DEBUG:Reading data
+2019-05-09 19:35:57,720:DEBUG:Decoding header
+2019-05-09 19:35:57,721:DEBUG:Number of rays: 8
+2019-05-09 19:35:57,721:DEBUG:Reading data
+2019-05-09 19:35:58,921:DEBUG:Decoding header
+2019-05-09 19:35:58,921:DEBUG:Number of rays: 13
+2019-05-09 19:35:58,921:DEBUG:Reading data
+2019-05-09 19:35:58,928:DEBUG:Decoding header
+2019-05-09 19:35:58,928:DEBUG:Number of rays: 8
+2019-05-09 19:35:58,928:DEBUG:Reading data
+2019-05-09 19:36:00,258:DEBUG:Decoding header
+2019-05-09 19:36:00,258:DEBUG:Number of rays: 13
+2019-05-09 19:36:00,258:DEBUG:Reading data
+2019-05-09 19:36:00,266:DEBUG:Decoding header
+2019-05-09 19:36:00,267:DEBUG:Number of rays: 13
+2019-05-09 19:36:00,267:DEBUG:Reading data
+2019-05-09 19:36:00,275:DEBUG:Decoding header
+2019-05-09 19:36:00,276:DEBUG:Number of rays: 13
+2019-05-09 19:36:00,276:DEBUG:Reading data
+2019-05-09 19:36:00,284:DEBUG:Decoding header
+2019-05-09 19:36:00,284:DEBUG:Number of rays: 13
+2019-05-09 19:36:00,284:DEBUG:Reading data
+2019-05-09 19:36:00,292:DEBUG:Decoding header
+2019-05-09 19:36:00,292:DEBUG:Number of rays: 8
+2019-05-09 19:36:00,292:DEBUG:Reading data
+2019-05-09 19:36:01,568:DEBUG:Decoding header
+2019-05-09 19:36:01,568:DEBUG:Number of rays: 13
+2019-05-09 19:36:01,568:DEBUG:Reading data
+2019-05-09 19:36:01,576:DEBUG:Decoding header
+2019-05-09 19:36:01,576:DEBUG:Number of rays: 8
+2019-05-09 19:36:01,576:DEBUG:Reading data
+2019-05-09 19:36:02,870:DEBUG:Decoding header
+2019-05-09 19:36:02,871:DEBUG:Number of rays: 13
+2019-05-09 19:36:02,871:DEBUG:Reading data
+2019-05-09 19:36:02,878:DEBUG:Decoding header
+2019-05-09 19:36:02,878:DEBUG:Number of rays: 13
+2019-05-09 19:36:02,878:DEBUG:Reading data
+2019-05-09 19:36:02,885:DEBUG:Decoding header
+2019-05-09 19:36:02,885:DEBUG:Number of rays: 13
+2019-05-09 19:36:02,885:DEBUG:Reading data
+2019-05-09 19:36:02,892:DEBUG:Decoding header
+2019-05-09 19:36:02,892:DEBUG:Number of rays: 13
+2019-05-09 19:36:02,893:DEBUG:Reading data
+2019-05-09 19:36:02,899:DEBUG:Decoding header
+2019-05-09 19:36:02,899:DEBUG:Number of rays: 8
+2019-05-09 19:36:02,899:DEBUG:Reading data
+2019-05-09 19:36:04,123:DEBUG:Decoding header
+2019-05-09 19:36:04,123:DEBUG:Number of rays: 13
+2019-05-09 19:36:04,123:DEBUG:Reading data
+2019-05-09 19:36:04,131:DEBUG:Decoding header
+2019-05-09 19:36:04,131:DEBUG:Number of rays: 8
+2019-05-09 19:36:04,132:DEBUG:Reading data
+2019-05-09 19:36:05,427:DEBUG:Decoding header
+2019-05-09 19:36:05,427:DEBUG:Number of rays: 8
+2019-05-09 19:36:05,427:DEBUG:Reading data
+2019-05-09 19:36:06,686:DEBUG:Decoding header
+2019-05-09 19:36:06,686:DEBUG:Number of rays: 13
+2019-05-09 19:36:06,686:DEBUG:Reading data
+2019-05-09 19:36:06,710:DEBUG:Decoding header
+2019-05-09 19:36:06,712:DEBUG:Number of rays: 330
+2019-05-09 19:36:06,712:DEBUG:Reading data
+2019-05-09 19:36:06,868:DEBUG:Decoding header
+2019-05-09 19:36:06,868:DEBUG:Number of rays: 8
+2019-05-09 19:36:06,868:DEBUG:Reading data
+2019-05-09 19:36:08,141:DEBUG:Decoding header
+2019-05-09 19:36:08,141:DEBUG:Number of rays: 8
+2019-05-09 19:36:08,141:DEBUG:Reading data
+2019-05-09 19:36:09,656:DEBUG:Decoding header
+2019-05-09 19:36:09,668:DEBUG:Number of rays: 3109
+2019-05-09 19:36:09,669:DEBUG:Reading data
+2019-05-09 19:36:11,140:DEBUG:Decoding header
+2019-05-09 19:36:11,140:DEBUG:Number of rays: 8
+2019-05-09 19:36:11,140:DEBUG:Reading data
+2019-05-09 19:36:12,410:DEBUG:Decoding header
+2019-05-09 19:36:12,416:DEBUG:Number of rays: 1414
+2019-05-09 19:36:12,416:DEBUG:Reading data
+2019-05-09 19:36:13,076:DEBUG:Decoding header
+2019-05-09 19:36:13,077:DEBUG:Number of rays: 8
+2019-05-09 19:36:13,077:DEBUG:Reading data
+2019-05-09 19:36:14,240:DEBUG:Decoding header
+2019-05-09 19:36:14,240:DEBUG:Number of rays: 8
+2019-05-09 19:36:14,240:DEBUG:Reading data
+2019-05-09 19:36:15,447:DEBUG:Decoding header
+2019-05-09 19:36:15,447:DEBUG:Number of rays: 3
+2019-05-09 19:36:15,447:DEBUG:Reading data
+2019-05-09 19:36:55,472:DEBUG:Output path already exists...
+2019-05-09 19:36:55,478:DEBUG:Decoding header
+2019-05-09 19:36:55,479:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,479:DEBUG:Reading data
+2019-05-09 19:36:55,487:DEBUG:Decoding header
+2019-05-09 19:36:55,487:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,487:DEBUG:Reading data
+2019-05-09 19:36:55,496:DEBUG:Decoding header
+2019-05-09 19:36:55,496:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,496:DEBUG:Reading data
+2019-05-09 19:36:55,505:DEBUG:Decoding header
+2019-05-09 19:36:55,505:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,505:DEBUG:Reading data
+2019-05-09 19:36:55,513:DEBUG:Decoding header
+2019-05-09 19:36:55,514:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,514:DEBUG:Reading data
+2019-05-09 19:36:55,522:DEBUG:Decoding header
+2019-05-09 19:36:55,522:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,522:DEBUG:Reading data
+2019-05-09 19:36:55,530:DEBUG:Decoding header
+2019-05-09 19:36:55,531:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,531:DEBUG:Reading data
+2019-05-09 19:36:55,539:DEBUG:Decoding header
+2019-05-09 19:36:55,539:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,539:DEBUG:Reading data
+2019-05-09 19:36:55,547:DEBUG:Decoding header
+2019-05-09 19:36:55,547:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,547:DEBUG:Reading data
+2019-05-09 19:36:55,554:DEBUG:Decoding header
+2019-05-09 19:36:55,554:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,554:DEBUG:Reading data
+2019-05-09 19:36:55,561:DEBUG:Decoding header
+2019-05-09 19:36:55,561:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,561:DEBUG:Reading data
+2019-05-09 19:36:55,569:DEBUG:Decoding header
+2019-05-09 19:36:55,569:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,569:DEBUG:Reading data
+2019-05-09 19:36:55,576:DEBUG:Decoding header
+2019-05-09 19:36:55,576:DEBUG:Number of rays: 13
+2019-05-09 19:36:55,576:DEBUG:Reading data
+2019-05-09 19:36:55,600:DEBUG:Decoding header
+2019-05-09 19:36:55,601:DEBUG:Number of rays: 330
+2019-05-09 19:36:55,602:DEBUG:Reading data
+2019-05-09 19:36:55,964:DEBUG:Decoding header
+2019-05-09 19:36:55,977:DEBUG:Number of rays: 3109
+2019-05-09 19:36:55,977:DEBUG:Reading data
+2019-05-09 19:36:57,569:DEBUG:Decoding header
+2019-05-09 19:36:57,574:DEBUG:Number of rays: 1414
+2019-05-09 19:36:57,574:DEBUG:Reading data
+2019-05-10 08:22:24,739:DEBUG:Output path already exists...
+2019-05-10 08:22:27,181:DEBUG:Output path already exists...
+2019-05-10 08:22:29,193:DEBUG:Output path already exists...
+2019-05-10 08:22:31,540:DEBUG:Output path already exists...
+2019-05-10 08:22:34,085:DEBUG:Output path already exists...
+2019-05-10 08:24:06,557:DEBUG:Output path already exists...
+2019-05-10 08:24:08,824:DEBUG:Output path already exists...
+2019-05-10 08:24:11,138:DEBUG:Output path already exists...
+2019-05-10 08:24:13,128:DEBUG:Output path already exists...
+2019-05-10 08:25:47,465:DEBUG:Output path already exists...
