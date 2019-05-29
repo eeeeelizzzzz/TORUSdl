@@ -6,6 +6,7 @@ from glob import glob
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import numpy as np
+from numpy.ma import masked_invalid
 from netCDF4 import Dataset
 
 # Get the current time
@@ -21,6 +22,7 @@ prefix = 'Stare_nonQA'
 VMIN = -4
 VMAX = 4
 HGT_LIM = (0, 2000)
+THRESH = 1.003
 
 tmp = datetime(year=now.year, month=now.month, day=now.day, hour=now.hour)
 XLIM = (mdates.date2num(tmp-timedelta(hours=0)), mdates.date2num(tmp+timedelta(hours=1)))
@@ -53,12 +55,20 @@ for fname in sorted(fnames):
     w = nc['w'][:]
     time = np.array([datetime.utcfromtimestamp(d) for d in nc['time'][:]])
     hgt = nc['hgt'][:]
+    intensity = nc['intensity'][:]
 
     nc.close()
     
-    # White out the spaces where there is not any stare data
+    # Grey out the spaces where there is not any stare data
     ind = np.where((time[1:] - time[:-1]) > timedelta(seconds=10))
-    w[ind] = 0
+    w[ind] = np.nan
+
+    # Grey out anywhere with bad intensity
+    ind = np.where(intensity < THRESH)
+    w[ind] = np.nan
+
+    # Convert to masked array for plotting
+    w = masked_invalid(w)
 
     # Make the mesh grid
     time = mdates.date2num(time)
@@ -72,7 +82,7 @@ for fname in sorted(fnames):
     c = ax.pcolormesh(time, hgt, w.transpose(), vmin=-4, vmax=4, cmap='seismic')
     
     # Format the colorbar
-    # c.cmap.set_bad('grey', 1.0)
+    c.cmap.set_bad('grey', 1.0)
     cb = plt.colorbar(c, ax=ax)
     cb.set_label('vertical velocity [m/s]')
     
