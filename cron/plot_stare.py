@@ -44,9 +44,7 @@ for fname in sorted(fnames):
         os.makedirs(outdir)
     
     outfile = now.strftime('../plots/%Y%m%d/{prefix}_%Y%m%d_%H.png'.format(prefix=prefix))
-   
-    
-    
+
     # Open the most recent netcdf
     logging.debug("Opening netcdf")
     nc = Dataset(fname)
@@ -54,8 +52,8 @@ for fname in sorted(fnames):
     # Get the data
     w = nc['w'][:]
     time = np.array([datetime.utcfromtimestamp(d) for d in nc['time'][:]])
-    hgt = nc['hgt'][0]
-    
+    hgt = nc['hgt'][:]
+
     nc.close()
     
     # White out the spaces where there is not any stare data

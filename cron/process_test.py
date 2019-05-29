@@ -294,16 +294,16 @@ def writeSTARE_to_nc(filename, date, w, hgt, intensity):
 
     # Create the variables
     w_var = nc.createVariable('w', 'f8', ('t', 'hgt'), fill_value=FILL_VALUE)
-    hgt_var = nc.createVariable('hgt', 'f8', ('t', 'hgt'), fill_value=FILL_VALUE)
-    intensity_var = nc.createVariable('intensity', 'f8', ('t','hgt'))
+    hgt_var = nc.createVariable('hgt', 'f8', ('hgt'), fill_value=FILL_VALUE)
+    intensity_var = nc.createVariable('intensity', 'f8', ('t', 'hgt'))
 
     time_var = nc.createVariable('time', 'i8', ('t'))
     time_var.setncattr('units', 'seconds since 1970-01-01 00:00:00 UTC')
 
     hgt_var[:] = hgt
-    time_var[:] = [(d - datetime(1970, 1, 1)).total_seconds() for d in date]
-    w_var[:, :] =  w
-    intensity_var[:] = intensity
+    time_var[:] = np.array([(d - datetime(1970, 1, 1)).total_seconds() for d in date])
+    w_var[:, :] = w
+    intensity_var[:, :] = intensity
 
     # Close the netcdf
     nc.close()
@@ -633,11 +633,9 @@ for in_file in raw_files:
         # Filter out the bad values based on CNR
         Vel = np.where(intensity <= 1.01, FILL_VALUE, vel)
 
-        # Get the rng into a 2d array
-        rng = np.array([rng for i in range(len(rng))])
-
         logging.debug("Writing stare file")
-        writeSTARE_to_nc(path_proc+prefix+date.strftime('%Y%m%d_%H_STARE.nc'), times, vel.transpose(), rng, up_flag)
+        writeSTARE_to_nc(path_proc+prefix+date.strftime('%Y%m%d_%H_STARE.nc'), times,
+                         vel.transpose(), rng, intensity.transpose())
 
     if scan_type=='rhi':
         # TB - A quick tip: Don't do an RHI at az=0. It bounces between 0 and 360 and is a pain in the ass to process
