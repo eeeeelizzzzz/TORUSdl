@@ -203,7 +203,7 @@ Processes a raw halo hpl file and turns it into a netcdf
 """
 
 
-def writeVAD_to_nc(filename, date, elev, u, v, w, ws, wd, hgt, rmse, r_sq,up_flag,intensity):
+def writeVAD_to_nc(filename, date, elev, u, v, w, ws, wd, hgt, rmse, r_sq, up_flag, intensity):
     if os.path.exists(filename):
         # open the netcdf
         nc = netCDF4.Dataset(filename, 'a', format="NETCDF4")
@@ -219,6 +219,7 @@ def writeVAD_to_nc(filename, date, elev, u, v, w, ws, wd, hgt, rmse, r_sq,up_fla
         time_var = nc.variables['time']
         hgt_var = nc.variables['hgt']
         up_flag_var = nc.variables['up_flag']
+        intensity_var = nc.variables['intensity']
 
         u_var[dim, :] = u
         v_var[dim, :] = v
@@ -228,6 +229,7 @@ def writeVAD_to_nc(filename, date, elev, u, v, w, ws, wd, hgt, rmse, r_sq,up_fla
         rms_var[dim, :] = rmse
         r_sq_var[dim, :] = r_sq
         up_flag_var[dim] = up_flag
+        intensity_var[dim, :] = intensity
 
     else:
         # Create the netcdf
@@ -251,7 +253,7 @@ def writeVAD_to_nc(filename, date, elev, u, v, w, ws, wd, hgt, rmse, r_sq,up_fla
         rms_var = nc.createVariable('rms', 'f8', ('t', 'height'), fill_value=FILL_VALUE)
         r_sq_var = nc.createVariable('r_sq', 'f8', ('t', 'height'), fill_value=FILL_VALUE)
         up_flag_var = nc.createVariable('up_flag', 'f8', ('t'))
-        intensity_var = nc.createVariable('intensity', 'f8', ('t','hgt'))
+        intensity_var = nc.createVariable('intensity', 'f8', ('t','height'), fill_value=FILL_VALUE)
 
         time_var = nc.createVariable('time', 'i8', ('t'))
         time_var.setncattr('units', 'seconds since 1970-01-01 00:00:00 UTC')
@@ -267,7 +269,7 @@ def writeVAD_to_nc(filename, date, elev, u, v, w, ws, wd, hgt, rmse, r_sq,up_fla
     r_sq_var[dim, :] = np.where(np.isnan(r_sq), FILL_VALUE, r_sq)
     time_var[dim] = (date - datetime(1970, 1, 1)).total_seconds()
     up_flag_var[dim]=up_flag
-    intensity_var[dim] = intensity
+    intensity_var[dim, :] = intensity
 
     # Close the netcdf
     nc.close()

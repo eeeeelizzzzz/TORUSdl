@@ -34,7 +34,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s:%(levelname)s:%(mess
 
 # grab current timestamp for run
 now = datetime.utcnow()
-# now=datetime(2019,05,17,23,58)
+# now=datetime(2019,05,27,21,01)
 log_time = now.strftime("%m%d%y_%H%M")
 today = now.strftime("%Y%m%d")  # - commented out for test date below.
 # today_l = datetime(2019,05,07)
@@ -228,10 +228,12 @@ for in_file in raw_files:
         w = []
         rmse = []
         r_sq = []
+        intensity_out = []
         for i, rng in enumerate(rng):
             # Get the required stuff for this range ring
             cnr = intensity[i, :]  # range,azimuth
             Vel = vel[i, :]  # range,azimuth
+            I = intensity[i, :] # range,azimuth
             Az = az  # 8-terms of az
             Elev = elev  # 8-terms of az
 
@@ -268,6 +270,7 @@ for in_file in raw_files:
             hgt.append(ray_height(rng, Elev[0]))
             rmse.append(tmp_RMSE)
             r_sq.append(tmp_r_sq)
+            intensity_out.append(np.mean(I))
         vector_wind = rotate(u, v, w, logdata["heading"], 0, 0)
         vector_wind = vector_wind.squeeze()
         u = vector_wind[:, 0]
@@ -277,7 +280,7 @@ for in_file in raw_files:
         wd = wind_uv_to_dir(u, v)
 
         writeVAD_to_nc(path_proc + prefix + date.strftime('%Y%m%d') + '_VAD.nc', date, elev, u, v, w, ws, wd, hgt,
-                       rmse, r_sq,up_flag)
+                       rmse, r_sq,up_flag, intensity_out)
 
         # add newly processed file to list of processed files
         proc_list = open(path_proc + 'processed_files.txt', "a")
